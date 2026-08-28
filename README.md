@@ -298,9 +298,9 @@ Backend Developer | Python Developer | AI/ML Enthusiast
 
 📧 Email: [sandeepdaberao7@gmail.com](mailto:sandeepdaberao7@gmail.com)
 
-🔗 LinkedIn: Add Your LinkedIn URL
+🔗 LinkedIn: [https://www.linkedin.com/in/sandeepdaberao05/]
 
-🔗 GitHub: Add Your GitHub Profile URL
+🔗 GitHub: [https://www.github.com/in/sandeepdaberao005/]
 
 ---
 
